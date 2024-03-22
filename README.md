@@ -29,6 +29,7 @@
 </pre>
 <br><br>
 
+<div>
 <h3><img src="./icons/cute-kitty-animated-gif-2.gif" height="24" /> 𝕞𝕖𝕥𝕣𝕚𝕔𝕤</h3>
 
 <img src="./github-metrics.svg" align="left" width="48%" />
@@ -36,12 +37,16 @@
 <img src="./metrics/activity.svg" align="left" width="48%" />
 <img src="./metrics/code.svg" align="right" width="48%" />
 <img src="./metrics/habits.svg" align="right" width="48%" />
+</div>
 
+<div>
 <h3><img src="./icons/62089ee9672198cd380b938aec5f1577.gif" height="24" /> 𝕒𝕟𝕚𝕞𝕖 / 𝕞𝕦𝕤𝕚𝕔</h3>
 
 <img src="./metrics/anilist.svg" align="left" width="48%" />
 <img src="./metrics/music.svg" align="right" width="48%" />
+</div>
 
+<div>
 <h3><img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966.gif" height="24" /> 𝕤𝕜𝕚𝕝𝕝𝕤</h3>
 
 <img src="./images/tumblr_pf655f0ZeU1snc5kxo2_400.png" width="50%" align="right">
@@ -64,10 +69,14 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eielelle&layout=pie&title_color=22c55e&align=right)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<br><br>
+
+<div>
 <h3><img src="./icons/tumblr_m9worzpyKn1rfjowdo1_500.gif" height="24" /> 𝕥𝕣𝕠𝕡𝕙𝕚𝕖𝕤</h3>
 
 <div align="center">
@@ -75,5 +84,4 @@
 [![Trophies](https://github-trophies.vercel.app/?username=eielelle&column=5&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
-
-<h3></h3>
+</div>
