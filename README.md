@@ -36,6 +36,7 @@
 <img src="./github-metrics.svg" width="48%" />
 <img src="./metrics/activity.svg" align="right" width="48%" />
 <img src="./metrics/code.svg" width="48%" />
+<img src="./metrics/achievements.svg" align="right" width="48%" />
 <img src="./metrics/habits.svg" width="48%" />
 
 ### <img src="./icons/62089ee9672198cd380b938aec5f1577.gif" height="24" /> 𝕒𝕟𝕚𝕞𝕖 / 𝕞𝕦𝕤𝕚𝕔
@@ -67,3 +68,10 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
+### <img src="./icons/tumblr_m9worzpyKn1rfjowdo1_500.gif" height="24" /> 𝕥𝕣𝕠𝕡𝕙𝕚𝕖𝕤
+
+<div align="center">
+    
+[![Trophies](https://github-trophies.vercel.app/?username=eielelle&column=5&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/lucthienphong1120/github-trophies)
+
+</div>
