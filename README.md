@@ -32,11 +32,11 @@
 <br><br><br>
 ### <img src="./icons/cute-kitty-animated-gif-2.gif" height="24" /> 𝕞𝕖𝕥𝕣𝕚𝕔𝕤
 
-<img src="./github-metrics.svg" align="left" width="48%" />
-<img src="./metrics/repos.svg" align="left" width="48%" />
-<img src="./metrics/activity.svg" align="left" width="48%" />
-<img src="./metrics/code.svg" align="right" width="48%" />
-<img src="./metrics/habits.svg" align="right" width="48%" />
+<img src="./github-metrics.svg" width="48%" />
+<img src="./metrics/repos.svg" width="48%" />
+<img src="./metrics/activity.svg" width="48%" />
+<img src="./metrics/code.svg" width="48%" />
+<img src="./metrics/habits.svg" width="48%" />
 
 <br><br>
 ### <img src="./icons/62089ee9672198cd380b938aec5f1577.gif" height="24" align="left" /> 𝕒𝕟𝕚𝕞𝕖 / 𝕞𝕦𝕤𝕚𝕔
