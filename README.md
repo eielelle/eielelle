@@ -36,6 +36,10 @@
 <img src="./github-metrics.svg" width="48%" />
 <img src="./metrics/activity.svg" align="right" width="48%" />
 <img src="./metrics/code.svg" width="48%" />
-<img src="./metrics/habits.svg" align="right" width="48%" />
+<img src="./metrics/habits.svg" width="48%" />
 
+### <img src="./icons/62089ee9672198cd380b938aec5f1577.gif" height="24" /> 𝕒𝕟𝕚𝕞𝕖 / 𝕞𝕦𝕤𝕚𝕔
+
+<img src="./metrics/music.svg" align="right" width="48%" />
+<img src="./metrics/anilist.svg" width="48%" />
 
