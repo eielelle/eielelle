@@ -10,7 +10,7 @@
 🌟 Coffee • Music • Games • Code • Manga
 🇵🇭 Philippines
 💻 Fedora (Linux) • Windows
-🎮 Currently Playing: Legend of Zelda: Tears of the Kingdom
+🎮 Currently Playing: Monster Hunter Rise
 </pre>
 
 ### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕘𝕠𝕒𝕝𝕤 / 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
@@ -18,7 +18,7 @@
 <pre>
 🎯 Goals
 [ ] - Finish capstone project
-[ ] - Participate in Codefest2024
+[ / ] - Participate in Codefest2024
 [ ] - Learn a little bit of art??
 </pre>
 
