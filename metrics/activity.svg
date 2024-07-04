@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -29,14 +29,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b832d55</div>
-                                        <div class="message">Merge pull request #9 from eielelle/01/07-quickfix
+                                        <div class="sha">#87ea9b0</div>
+                                        <div class="message">Merge pull request #10 from eielelle/theme-switcher
 
-quickfix</div>
+added theme switcher</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#813533f</div>
-                                        <div class="message">quickfix</div>
+                                        <div class="sha">#464eaa6</div>
+                                        <div class="message">added theme switcher</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,12 +49,12 @@ quickfix</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 quickfix</span>
+                                        <span class="issue">#10 added theme switcher</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">eielelle/gradify-web</span></div>
-                                    <div>1 file changed <span class="code">++2 --5</span></div>
+                                    <div>1 file changed <span class="code">++15 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -66,12 +66,12 @@ quickfix</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 quickfix</span>
+                                        <span class="issue">#10 added theme switcher</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">eielelle/gradify-web</span></div>
-                                    <div>1 file changed <span class="code">++2 --5</span></div>
+                                    <div>1 file changed <span class="code">++15 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -84,7 +84,7 @@ quickfix</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">01/07-quickfix</span>
+                                        <span class="code">theme-switcher</span>
                                         in
                                         <span class="repo">eielelle/gradify-web</span>
                                     </div>
@@ -98,33 +98,21 @@ quickfix</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">eielelle/gradify-web</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56c0d01</div>
-                                        <div class="message">Merge pull request #8 from eielelle/01/07-romero
+                                        <div class="sha">#b832d55</div>
+                                        <div class="message">Merge pull request #9 from eielelle/01/07-quickfix
 
-01/07 romero</div>
+quickfix</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1b21cec</div>
-                                        <div class="message">rubocop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48c029b</div>
-                                        <div class="message">added path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c91a80a</div>
-                                        <div class="message">added search</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d79202a</div>
-                                        <div class="message">added sort</div>
+                                        <div class="sha">#813533f</div>
+                                        <div class="message">quickfix</div>
                                     </div>
                                 </div>
                             </section>
