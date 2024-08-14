@@ -6,11 +6,9 @@
 
 <img src="./images/ezgif-2-24b11ee96f.gif" align="right">
 <pre>
-💼 Student @ STI College • BS Information Technology • 3rd Year
-🌟 Coffee • Music • Games • Code • Manga
+💼 Student @ STI College • BS Information Technology • 4th Year
 🇵🇭 Philippines
 💻 Fedora (Linux) • Windows
-🎮 Currently Playing: Xenoblade Chronicles 3
 </pre>
 
 ### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕘𝕠𝕒𝕝𝕤 / 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
@@ -20,11 +18,6 @@
 [ ] - Learn a little bit of art??
 </pre>
 
-<pre>
-🏆 Achievements
-🏅 - 1st Place Local Codefest 2023
-🏅 - Champion Local Codefest 2024    
-</pre>
 <br><br>
 
 <br><br><br>
