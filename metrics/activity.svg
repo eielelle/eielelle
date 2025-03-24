@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
@@ -29,42 +29,18 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0cd7dfd</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/eielelle/pepetoons-animations into dev</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">eielelle/pepetoons-animations</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#07fb4b2</div>
-                                        <div class="message">Merge pull request #36 from eielelle/enhancement/europe
+                                        <div class="sha">#6ba6f4c</div>
+                                        <div class="message">Merge pull request #39 from eielelle/fix/romatic
 
-Enhancement/europe</div>
+Fix/romatic</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#306668a</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/eielelle/pepetoons-animations into enhancement/europe</div>
+                                        <div class="sha">#806cc7a</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/eielelle/pepetoons-animations into fix/romatic</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c2c4c4f</div>
-                                        <div class="message">adjust images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc725d3</div>
-                                        <div class="message">Add modal, optimize code</div>
+                                        <div class="sha">#46cd5e9</div>
+                                        <div class="message">FIX SCREEN</div>
                                     </div>
                                 </div>
                             </section>
@@ -77,12 +53,12 @@ Enhancement/europe</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#36 Enhancement/europe</span>
+                                        <span class="issue">#39 Fix/romatic</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by XeLwaren13 in <span class="repo">eielelle/pepetoons-animations</span></div>
-                                    <div>13 files changed <span class="code">++158 --98</span></div>
+                                    <div>opened by KaiKidThief in <span class="repo">eielelle/pepetoons-animations</span></div>
+                                    <div>1 file changed <span class="code">++59 --43</span></div>
                                 </div>
                             </section>
                         </div>
@@ -94,11 +70,11 @@ Enhancement/europe</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#36 Enhancement/europe</span>
+                                        <span class="issue">#39 Fix/romatic</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by XeLwaren13 in <span class="repo">eielelle/pepetoons-animations</span></div>
+                                    <div>opened by KaiKidThief in <span class="repo">eielelle/pepetoons-animations</span></div>
                                 </div>
                             </section>
                         </div>
@@ -109,34 +85,35 @@ Enhancement/europe</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">eielelle/pepetoons-animations</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a44bc04</div>
-                                        <div class="message">Merge pull request #38 from eielelle/dependabot/npm_and_yarn/next-15.2.3
-
-Bump next from 15.1.7 to 15.2.3</div>
+                                        <div class="sha">#1666058</div>
+                                        <div class="message">updated code</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">eielelle/pepetoons-animations</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d22dda0</div>
-                                        <div class="message">Bump next from 15.1.7 to 15.2.3
-
-Bumps [next](https://github.com/vercel/next.js) from 15.1.7 to 15.2.3.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v15.1.7...v15.2.3)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#0cd7dfd</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/eielelle/pepetoons-animations into dev</div>
                                     </div>
                                 </div>
                             </section>
