@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
@@ -29,14 +29,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6879497</div>
-                                        <div class="message">Merge pull request #46 from eielelle/fix/map-bug
+                                        <div class="sha">#b19ffa0</div>
+                                        <div class="message">Merge pull request #48 from eielelle/fix/asia-europe
 
-FIX MAP BUG</div>
+Fix and Enhance Asia/Europe</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d4246a2</div>
-                                        <div class="message">FIX MAP BUG</div>
+                                        <div class="sha">#f2733db</div>
+                                        <div class="message">Fix and Enhance Asia/Europe</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,12 +49,12 @@ FIX MAP BUG</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#46 FIX MAP BUG</span>
+                                        <span class="issue">#48 Fix and Enhance Asia/Europe</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by XeLwaren13 in <span class="repo">eielelle/pepetoons-animations</span></div>
-                                    <div>3 files changed <span class="code">++20 --53</span></div>
+                                    <div>6 files changed <span class="code">++325 --304</span></div>
                                 </div>
                             </section>
                         </div>
@@ -66,7 +66,7 @@ FIX MAP BUG</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#46 FIX MAP BUG</span>
+                                        <span class="issue">#48 Fix and Enhance Asia/Europe</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -81,29 +81,21 @@ FIX MAP BUG</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">eielelle/pepetoons-animations</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#46e13ac</div>
-                                        <div class="message">Merge pull request #45 from eielelle/enhancement/asia-europe
+                                        <div class="sha">#858e290</div>
+                                        <div class="message">Merge pull request #47 from eielelle/feature/essay
 
-Enhancement/asia-europe</div>
+ESSAY AND MODAL CONTENT</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#edf8fe7</div>
-                                        <div class="message">fix background and fonts display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17ef80f</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/eielelle/pepetoons-animations into enhancement/asia-europe</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c3e612</div>
-                                        <div class="message">Asia/Europe Enhancement</div>
+                                        <div class="sha">#8e1a0a2</div>
+                                        <div class="message">ESSAY AND MODAL CONTENT</div>
                                     </div>
                                 </div>
                             </section>
@@ -116,12 +108,12 @@ Enhancement/asia-europe</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#45 Enhancement/asia-europe</span>
+                                        <span class="issue">#47 ESSAY AND MODAL CONTENT</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by XeLwaren13 in <span class="repo">eielelle/pepetoons-animations</span></div>
-                                    <div>2 files changed <span class="code">++152 --129</span></div>
+                                    <div>opened by KaiKidThief in <span class="repo">eielelle/pepetoons-animations</span></div>
+                                    <div>9 files changed <span class="code">++317 --142</span></div>
                                 </div>
                             </section>
                         </div>
