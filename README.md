@@ -4,31 +4,29 @@
 
 # <img src="./icons/15265af91d058d33da9d448a7cd070f9.gif" height="32" />  Yo! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-<img src="./images/ezgif-2-24b11ee96f.gif" align="right">
+<!-- <img src="./images/ezgif-2-24b11ee96f.gif" align="right"> -->
 <pre>
-💼 Student @ STI College • BS Information Technology • 4th Year
+💼 STI College • BS Information Technology
+💻 Aspiring Software Engineer
 🇵🇭 Philippines
-💻 Fedora (Linux) • Windows
 </pre>
 
-### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕘𝕠𝕒𝕝𝕤 / 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
+### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕨𝕙𝕒𝕥 𝕚𝕞 𝕕𝕠𝕚𝕟𝕘
 
 <pre>
-🎯 Goals
-[ ] - Learn a little bit of art??
+🎯 what im doing
+    
+nothing. say hi.
 </pre>
 
-<br><br>
-
-<br><br><br>
 ### <img src="./icons/cute-kitty-animated-gif-2.gif" height="24" /> 𝕞𝕖𝕥𝕣𝕚𝕔𝕤
 
-<img src="./metrics/repos.svg" align="right" width="48%" />
-<img src="./github-metrics.svg" width="48%" />
-<img src="./metrics/code.svg" align="right" width="48%" />
-<img src="./metrics/activity.svg" width="48%" />
-<img src="./metrics/achievements.svg" align="right" width="48%" />
-<img src="./metrics/habits.svg" width="48%" />
+<!-- <img src="./metrics/repos.svg" align="right" width="48%" /> -->
+<!-- <img src="./metrics/code.svg" align="right" width="48%" /> -->
+<!-- <img src="./metrics/activity.svg" width="48%" /> -->
+<!-- <img src="./metrics/achievements.svg" align="right" width="48%" /> -->
+<img src="./metrics/habits.svg" align="right" width="45%" />
+<img src="./github-metrics.svg" width="45%" />
 
 ### <img src="./icons/62089ee9672198cd380b938aec5f1577.gif" height="24" /> 𝕒𝕟𝕚𝕞𝕖 / 𝕞𝕦𝕤𝕚𝕔
 
@@ -37,9 +35,11 @@
 
 ### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966.gif" height="24" /> 𝕤𝕜𝕚𝕝𝕝𝕤
 
-<img src="./metrics/languages.svg" width="50%" align="right">
+<div align="center">
 
-<div align="left width="40%">
+<img src="./metrics/languages.svg">
+
+<div align="center" width="40%">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
@@ -57,6 +57,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
 </div>
 
 ### <img src="./icons/tumblr_m9worzpyKn1rfjowdo1_500.gif" height="24" /> 𝕥𝕣𝕠𝕡𝕙𝕚𝕖𝕤
