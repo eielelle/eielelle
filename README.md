@@ -14,9 +14,7 @@
 ### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕨𝕙𝕒𝕥 𝕚𝕞 𝕕𝕠𝕚𝕟𝕘
 
 <pre>
-🎯 what im doing
-    
-nothing. say hi.
+learning some stuff. writing poems. fixing self.
 </pre>
 
 ### <img src="./icons/cute-kitty-animated-gif-2.gif" height="24" /> 𝕞𝕖𝕥𝕣𝕚𝕔𝕤
