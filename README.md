@@ -84,6 +84,13 @@ lost out in space, hearing echoes.
     <img src="./images/cd.gif" width="10%" />
 </div>
 
-<pre align="center">
-    ■ ᴛᴜʀɴ ᴏɴ. ᴛᴜɴᴇ ɪɴ. ᴅʀᴏᴘ ᴏᴜᴛ. ■ 
-</pre>
+<div float="left" align="center">
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ ᴛᴜʀɴ ᴏɴ. ᴛᴜɴᴇ ɪɴ. ᴅʀᴏᴘ ᴏᴜᴛ. ■ &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
