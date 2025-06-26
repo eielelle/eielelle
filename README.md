@@ -81,7 +81,7 @@ lost out in space, hearing echoes.
 <br />
 
 <div align="center">
-    <img src="./images/cd.gif" width="10%" />
+    <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%" />
 </div>
 
 <div float="left" align="center">
