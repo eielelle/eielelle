@@ -1,20 +1,23 @@
-<div style="display: block; width: 100%;">
+<!-- <div style="display: block; width: 100%;">
     <img src="./images/header.gif" align="center" width="100%" />
-</div>
+</div> -->
 
 # <img src="./icons/15265af91d058d33da9d448a7cd070f9.gif" height="32" />  Yo! ꕤ˚₊⊹
 
+<div align="center">
+    <img src="./images/man.gif" width="40%" />
+</div>
 
-<img src="./images/man.gif" width="40%" align="center" />
-
-
-🥀 Hello! I'm El, an aspiring software engineer who enjoys creating random things. Right now, I'm working on a few personal projects, writing whatever comes to mind, and playing some games. Lately, I've been playing **Reverse: 1999** and **osu!**—check them out if you have time!
+<br />
 
 <pre>
 💼 STI College • BS Information Technology
 💻 Aspiring Software Engineer
 🇵🇭 Philippines
 </pre>
+
+🥀 Hello! I'm El, an aspiring software engineer who enjoys creating random things. Right now, I'm working on a few personal projects, writing whatever comes to mind, and playing some games. Lately, I've been playing **Reverse: 1999** and **osu!**—check them out if you have time!
+
 
 
 ### <img src="./icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" height="24" /> 𝕨𝕙𝕒𝕥 𝕚𝕞 𝕕𝕠𝕚𝕟𝕘
@@ -74,3 +77,13 @@ lost out in space, hearing echoes.
 [![Trophies](https://github-trophies.vercel.app/?username=eielelle&column=5&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/lucthienphong1120/github-trophies)
 
 </div> -->
+
+<br />
+
+<div align="center">
+    <img src="./images/cd.gif" width="10%" />
+</div>
+
+<pre align="center">
+    ■ ᴛᴜʀɴ ᴏɴ. ᴛᴜɴᴇ ɪɴ. ᴅʀᴏᴘ ᴏᴜᴛ. ■ 
+</pre>
